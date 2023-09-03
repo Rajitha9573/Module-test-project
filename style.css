@@ -1,0 +1,367 @@
+
+*{
+  padding:0px;
+  margin:0px;
+
+}
+.nav-bar{
+    position: fixed;
+    width:100%;
+}
+.container{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      justify-content: space-between; 
+       /* position:fixed; */
+       width:100%;
+       padding:0px;
+       background-color: white;
+       
+    }
+    .course>a{
+        color:#565656;
+        padding: 20px;
+        font-family: 'Poppins', sans-serif;
+        text-decoration: none;
+        font-size: 18px;
+    }
+    li,a{
+        list-style: none;
+    }
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&display=swap');
+
+   .unordered{
+    display: flex;
+   }
+
+.login-btn>button{
+   color:#1e7df8;
+   border-color: #2F80ED;
+   padding:5px 20px;
+   border-radius: 6px;
+}
+.announce{
+     /* position: fixed;  */
+    z-index: 80;
+    width: 100%;
+    top: 70px;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+    background-color: #2f80ed;
+}
+.hero-section{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: px;
+}
+.subsection{
+    Width:750px;
+    Height: 308px;
+    background-color:;
+    margin-top: 150px;
+    padding:40px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.heading{
+    font-family: 'Poppins', sans-serif;
+    font-family: ABeeZee;
+    font-size: 50px;
+
+     font-weight: 400;
+     text-align: left;
+
+}
+.color{
+     color:#2F80ED;
+}
+.paragraph{
+    color: #595959;
+   font-weight: ; Weight:400px;
+    font-Size:12px;
+
+}
+.about-company{
+    height:80px;
+    background-color: #fff;
+    display:flex;
+    justify-content: space-around;
+    padding: 10px;
+    box-shadow: 0 2px 40px rgba(0,0,0,.08);
+    border-radius: 8px;
+}
+
+.salary{
+    color:#4F4F4F;
+    font-weight:400px;
+    font-size:12px;
+}
+.input-box{
+    Width:415px;
+    Height: 496px;
+    background-color:;
+    padding: 19px;
+    margin-top: 170px;
+    border-radius: 15px;
+    box-shadow:0px 0px 50px rgb(127, 127, 230);
+    margin-right: 20px;
+
+}  
+.title{
+    font-size: 30px;
+    font-weight: 400;
+    font-style:italic ;
+    display:flex;
+    justify-content: center;
+}
+.free{
+    color:#2F80ED;
+}
+.subtitle{
+    color: #667085;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+}
+.form-1,.apply-btn{
+    text-align: center;
+    
+    
+}
+.name{
+    width:85%;
+    margin-top: 10px;
+    padding:10px;
+    border:none;
+    background-color: #eff3fc;
+    margin-left: 5px;
+}
+.btn-2{
+    margin-top: 25px;
+    padding:10px;
+    width:85%;
+    color:white;
+    background: linear-gradient(276.97deg, #992FED 0%, #2F80ED 100%);
+    border:none;
+    border-radius: 8px;;
+}
+.agree{
+    color:#818D9D;
+    margin-top: 10px;
+}
+.terms-condition{
+    color:#1e7df8;
+}
+.main-section{
+    background-color:#ecf8ff;
+    width:100vw;
+    height:650px;
+
+}
+.web-develop{
+    text-align: center;
+    color:rgb(102, 11, 247);
+    margin-top: 30px;
+    padding-top:50px;
+    
+}
+.course{
+    color:#2F80ED;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.beg-box{
+    width:490px;
+    Height:480px;
+    border-Radius:9px;
+    background-color:white;
+    margin-left: 30px;
+    box-shadow: 0px 0px 10px solid rgb(205, 55, 55);
+}
+
+.beginner{
+    font-family: ABeeZee;
+font-size: 26px;
+font-style: italic;
+font-weight: 400;
+text-align: center;
+padding-top: 10px;
+
+}
+.lifetime{
+    Width:Hug (148px);
+    Height:Hug (26px);
+     Radius:7px;
+     Padding:6px, 15px, 6px, 15px;
+     Gap:18px;
+     /* background-color: #1D78B0; */
+     font-size:12px;
+     text-align: center;
+     
+
+}
+.access{
+    background-color: #E0F3FF;
+    padding: 6px;
+    border-radius: 6px;
+    margin: 5px;
+}
+.coding,.best{
+    font-Weight:400px;
+     font-size:14px; 
+     color:#565656;
+     text-align: center;
+}
+.tablebeginner{
+    width:100%;
+    font-size: 14px;
+    align-items: center;
+    padding:40px;
+    font-weight: 700px;
+    border-radius: 15px;
+    
+
+}
+.twobox{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    padding-left: 5px;
+    
+}
+.table-data{
+   padding-left:10px;
+
+
+   
+}
+.table-ans{
+    align-items: right;
+}
+.btn3{
+    display:flex;
+    justify-content: space-around;
+}
+.brocure{
+    padding:15px 50px;
+    border-radius: 10px;
+    border-color: #1e7df8;
+    color:#1e7df8;
+    background-color: white;
+}
+.learn{
+    padding: 15px 45px;
+    border-radius: 10px;
+    background-color: #1e7df8;
+    color:white;
+    border:none;
+}
+.access-pay{
+    background-color: pink;
+    padding: 6px;
+    border-radius: 6px;
+    margin: 5px;
+}
+.hiring{
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    color:#2f80ed;
+    text-align: center;
+    margin-top: 80px;
+}
+.startup{
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+}
+.engineer{
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    color:#1e7df8;
+}
+.acciojob{
+    text-align: center;
+    color:#818D9D;
+}
+.company-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.startup-love{
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 40px;
+}
+.btn-5{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding:5px 40px;
+}
+.placement-report{
+    padding:15px 50px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-color: #1e7df8;
+}
+.about-acciojob{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    justify-content:;
+    margin-inline-start:8px;
+    padding-bottom: 15px;
+}
+.persons{
+    width:400px;
+    height:300px;
+    background-color: #e8eff9;
+    box-shadow: 0px 0px 10p solid green;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+.profile{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+.linkid-in{
+    width: 30px;
+    height: 30px;
+    background-color: #1e7df8;
+    border-radius: 50%;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900px;
+}
+.kohli{
+    display:flex;
+    justify-content:space-around ;
+    padding:18px;
+}
+.story,.jan{
+    padding:8px;
+}
